@@ -1,4 +1,4 @@
-# EXPERIMENT 06: Implement a Simple LSTM using TensorFlow/Keras
+# EXPERIMENT 08: Implement a Simple LSTM using TensorFlow/Keras
 
 ## **DL- Developing a Deep Learning Model for NER using LSTM**
 
